@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mbrio",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Base eslint configs",
   "main": "node.js",
   "scripts": {
@@ -11,10 +11,12 @@
   "license": "ISC",
   "peerDependencies": {
     "eslint": "^3.3.0",
-    "eslint-plugin-react": "^6.1.0"
+    "eslint-plugin-react": "^6.1.0",
+    "eslint-plugin-react-native": "^2.0.0"
   },
   "devDependencies": {
     "eslint": "^3.3.0",
-    "eslint-plugin-react": "^6.1.0"
+    "eslint-plugin-react": "^6.1.0",
+    "eslint-plugin-react-native": "^2.0.0"
   }
 }
