@@ -13,4 +13,12 @@ module.exports = {
     './config/style.js',
     './config/react.js',
   ],
+  'parserOptions': {
+    'ecmaVersion': 6,
+  },
+  'env': {
+    'node': true,
+    'es6': true,
+    'jest': true,
+  },
 };
