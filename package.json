@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mbrio",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Base eslint configs",
   "main": "base.js",
   "scripts": {
